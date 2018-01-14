@@ -11,7 +11,7 @@ Er kann nicht fahren.
 Marc ne chante pas.<br>
 Marc singt nicht.
 
-Elle n'est pas là.<br
+Elle n'est pas là.<br>
 Sie ist nicht da.
 
 
