@@ -1,6 +1,6 @@
 # Französsisch
 ## Ka-Vorbereitung
-Leider Hatte ich keine Zeit zum Auffüllen dieser Seite, weshalb es hier nur um die in der KA am 16.01.18
+Leider Hatte ich keine Zeit zum Auffüllen dieser Seite, weshalb es sich hier nur um die Themen von der KA am 16.01.18 handelt
 
 ### KA-Themen
 <ol> 
@@ -12,3 +12,34 @@ Leider Hatte ich keine Zeit zum Auffüllen dieser Seite, weshalb es hier nur um 
   <li>Possesivbegleiter</li>
   <li>Sonstiges</li>
   </ol>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
