@@ -8,7 +8,7 @@ Leider Hatte ich keine Zeit zum Auffüllen dieser Seite, weshalb es sich hier nu
   <li>Verben</li>
   <li>Text schreiben</li>
   <li>Fragebildung</li>
-  <li>[Verneinung]( https://hertzsite.github.io/hertzsite/french/verneinung"Verneinung")</li>
+  <li><a href="https://hertzsite.github.io/hertzsite/french/verneinung">Verneinung/a></li>
   <li>Possesivbegleiter</li>
   <li>Sonstiges</li>
   </ol>
