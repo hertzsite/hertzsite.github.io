@@ -5,5 +5,5 @@ Das ist die Lösung!
 
 ### Fächer
   
-Französsisch
+[Französsisch](https://hertzsite.github.io/hertzsite/french "Französsisch")
 (andere kommen später dazu)
