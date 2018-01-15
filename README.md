@@ -4,7 +4,7 @@ Hefter nicht in ordnung? Vergessen was man am Freitag in Mathe gemacht hat?
 Das ist die Lösung!
 
 ### Fächer
-Biologie<br>
+[Biology](https://hertzsite.github.io/hertzsite/biology/ "Biologie")<br>
 Chemie<br>
 Deutsch<br>
 Englisch<br>
