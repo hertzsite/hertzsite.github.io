@@ -1,3 +1,3 @@
 # Kunst
 ## Diese seite ist noch leer!
-Hat sie überhaupt sinn?
+Hat sie überhaupt Sinn?
