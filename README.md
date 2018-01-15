@@ -18,7 +18,7 @@ Musik<br>
 Physik<br>
 
 ### Hausaufgaben
-Die aktuellen Hausaufgaben gibt es hier
+Die aktuellen Hausaufgaben gibt es [hier](https://hertzsite.github.io/hertzsite/homework/ "Hausaufgaben")
 
 
 #### Comunity powered?
