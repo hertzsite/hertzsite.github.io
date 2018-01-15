@@ -13,10 +13,3 @@ Marc singt nicht.
 
 Elle n'est pas là.<br>
 Sie ist nicht da.
-
-
-
-
-
-
-[zurück](https://hertzsite.github.io/hertzsite/french "Französsisch")
