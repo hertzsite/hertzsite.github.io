@@ -5,7 +5,7 @@ Leider Hatte ich keine Zeit zum Auffüllen dieser Seite, weshalb es sich hier nu
 ### KA-Themen
 <ol> 
   <li>Sich selber Präsentieren</li>
-  <li>Verben<a href="https://hertzsite.github.io/hertzsite/french/verben">Verben</a></li>
+  <li><a href="https://hertzsite.github.io/hertzsite/french/verben">Verben</a></li>
   <li>Text schreiben</li>
   <li>Fragebildung</li>
   <li><a href="https://hertzsite.github.io/hertzsite/french/verneinung">Verneinung</a></li>
