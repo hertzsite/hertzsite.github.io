@@ -1,7 +1,7 @@
 # Verben
 ## Er-verben
 | Personalpronomen|regarder|
-| ------------- |:-------------|
+--- | --- | ---
 | je            |    regarde    |
 | tu            | regardes      |
 | il/elle/on    | regarde       |
@@ -10,7 +10,7 @@
 
 ## SST-verben
 | Personalpronomen|fait|
-| ------------- |:-------------|
+--- | --- | ---
 | je            | fais          |
 | tu            | fais          |
 | il/elle/on    | fait          |
