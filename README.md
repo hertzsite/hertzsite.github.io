@@ -11,7 +11,7 @@ Englisch<br>
 [Französsisch](https://hertzsite.github.io/hertzsite/french "Französsisch")<br>
 Geographie<br>
 Geschichte<br>
-Kunst<br>
+[Kunst](https://hertzsite.github.io/hertzsite/art/ "Kunst")<br>
 Mathe<br>
 Musik<br>
 Physik<br>
