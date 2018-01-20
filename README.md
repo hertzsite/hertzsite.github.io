@@ -1,3 +1,4 @@
+<link rel="icon" href="https://raw.githubusercontent.com/hertzsite/hertzsite/design/favicon.ico" />
 # hertzsite
 
 ## Lernen - Online
