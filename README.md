@@ -1,4 +1,4 @@
-<link rel="icon" href="https://raw.githubusercontent.com/hertzsite/hertzsite/master/pictures/favicon.ico" />
+<link rel="icon" href="https://raw.githubusercontent.com/hertzsite/hertzsite/master/pictures/logo.png" />
 
 # hertzsite
 
