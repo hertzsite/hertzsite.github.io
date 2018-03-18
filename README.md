@@ -7,21 +7,21 @@ Hefter nicht in ordnung? Vergessen was man am Freitag in Mathe gemacht hat?
 Das ist die Lösung!
 
 ### Fächer
-[Biologie](https://hertzsite.github.io/hertzsite/biology/ "Biologie")<br>
-[Chemie](https://hertzsite.github.io/hertzsite/chemistry/ "Chemie")<br>
-[Deutsch](https://hertzsite.github.io/hertzsite/german/ "Deutsch")<br>
-[Englisch](https://hertzsite.github.io/hertzsite/english/ "Englisch")<br>
-[Französisch](https://hertzsite.github.io/hertzsite/french "Französsisch")<br>
-[Geographie](https://hertzsite.github.io/hertzsite/geography/ "Geographie")<br>
-[Geschichte](https://hertzsite.github.io/hertzsite/history/ "Geschichte")<br>
-[Kunst](https://hertzsite.github.io/hertzsite/art/ "Kunst")<br>
-[Mathe](https://hertzsite.github.io/hertzsite/math/ "Mathe")<br>
-[Musik](https://hertzsite.github.io/hertzsite/music/ "Musik")<br>
-[Physik](https://hertzsite.github.io/hertzsite/physics/ "Physik")<br>
-[Ethik](https://hertzsite.github.io/hertzsite/ethics/ "Ethik")<br>
+[Biologie](https://hertzsite.github.io/biology/ "Biologie")<br>
+[Chemie](https://hertzsite.github.io/chemistry/ "Chemie")<br>
+[Deutsch](https://hertzsite.github.io/german/ "Deutsch")<br>
+[Englisch](https://hertzsite.github.io/english/ "Englisch")<br>
+[Französisch](https://hertzsite.github.io/french "Französsisch")<br>
+[Geographie](https://hertzsite.github.io/geography/ "Geographie")<br>
+[Geschichte](https://hertzsite.github.io/history/ "Geschichte")<br>
+[Kunst](https://hertzsite.github.io/art/ "Kunst")<br>
+[Mathe](https://hertzsite.github.io/math/ "Mathe")<br>
+[Musik](https://hertzsite.github.io/music/ "Musik")<br>
+[Physik](https://hertzsite.github.io/physics/ "Physik")<br>
+[Ethik](https://hertzsite.github.io/ethics/ "Ethik")<br>
 
 ### Hausaufgaben
-Die aktuellen Hausaufgaben gibt es [hier](https://hertzsite.github.io/hertzsite/homework/ "Hausaufgaben")
+Die aktuellen Hausaufgaben gibt es [hier](https://hertzsite.github.io/homework/ "Hausaufgaben")
 
 
 #### Comunity powered?
